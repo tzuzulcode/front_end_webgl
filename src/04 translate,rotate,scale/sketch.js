@@ -18,7 +18,7 @@ function draw() {
   stroke("white");
   // rotate(mouseX/100)
   rect(-10,-20,20,40)
-  angle +=0.1
-  scaleSize +=0.01
+  // angle +=0.1
+  // scaleSize +=0.01
   // rect(50,50,20,40)
 }
